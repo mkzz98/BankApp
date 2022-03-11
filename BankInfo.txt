@@ -1,0 +1,6 @@
+111111:marcus malmgren:931318#1001:Debit:1241214.0 
+111112:marcus malmgren:930718#1002:Debit:563452.0 
+111113:marcus malmgren:935328#1003:Debit:461345.0 
+111114:marcus malmgren:9303110#1004:Debit:4361346.0 #1010:Debit:0.0 
+111115:marcus malmgren:933318#1005:Debit:1346314.0 
+111116:marcus malmgren:930518
